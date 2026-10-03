@@ -4,3 +4,10 @@
 *.synctex.gz
 *-concordance.tex
 .Rproj.user
+.RData
+.Rhistory
+*.Rproj
+*.aux
+*.fdb_latexmk
+*.fls
+*.Rnw
