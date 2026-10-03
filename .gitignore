@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+*.tex
+*.synctex.gz
+*-concordance.tex
+.Rproj.user
