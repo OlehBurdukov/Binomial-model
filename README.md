@@ -7,14 +7,9 @@ Taking this opportunity, I'd like to express my gratitude to Associate Professor
 
 ## Contents
 - 'Binomial model.R' – the main R script with all functions.
-- 'Binomial model.Rproj' – the RStudio file containing the project
 - 'Binomial_model.Rnw' – the LaTeX document
 - 'Binomial_model.pdf' – the ready-to-read PDF document with presentation of the project
 
-## How to run
-1. Clone the repository
-2. Open the `.Rproj` file in RStudio
-3. Run `binomial_model.R`
 
 ## Description of Functions
 binomial.eu.call() --- estimates the present value of an European call. 
